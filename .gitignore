@@ -2,3 +2,9 @@ hello_mpi
 messages1
 messaage2
 *.o
+Exercise02/sum_mpi
+Exercise03/pi_monte_carlo
+Exercise05/source_mismatch
+Exercise05/buffered_message
+Exercise06/pi_any_source
+Exercise07/pi_buffered_send
